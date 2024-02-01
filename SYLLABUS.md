@@ -15,9 +15,8 @@ computer langueges for numerical solutions and algebraic manipulations.
 
 ## Class mode
 This semester, we will have a mixture of the following modes:
-1. Face-to-face physical class with option to HyperFlex (with simultaneous Zoom session).
-2. Pure synchronous online session.
-3. Asynchronous mode : Interaction with classmates and experts in the Discord server is encouraged.
+1. Default: Face-to-face physical class with option to HyperFlex (with simultaneous Zoom session).
+2. Asynchronous mode : Interaction with classmates and experts in the Discord server is encouraged. During this mode, you are expected to work on certain machine activity or problem assigned.
 
 ## Necessities:
 1. Computer (laptop or desktop) with Internet access<sup>[1](#gpu-note)</sup>
