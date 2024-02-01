@@ -4,7 +4,8 @@
 
 This is a repository of the codes, notes, and slides used in a course on High-Performance Computing using Julia as the language (Physics 215: Computational Methods of Physics) at the [National Institute of Physics](http://nip.upd.edu.ph), [College of Science](http://science.upd.edu.ph), [University of the Philippines in Diliman](http://upd.edu.ph).
 
-This course is offered during the 1st semester of the academic year 2022-2023.
+This course is previously offered during the 1st semester of the academic year 2022-2023.
+This version With some modifications is offered for the 2nd semester of the academic year 2023-2024.
 
 Most codes are based on those in the books used as textbook and references. 
 Copyright mode is MIT since it covers the copyright mode of those references.
@@ -13,7 +14,7 @@ Please drop me a [note](mailto:jybantang@up.edu.ph) for any possible copyright p
 
 # Syllabus and Course Guide Outline
 
-Check it [here](SYLLABUS.md).
+The syllabus is accessible [here](SYLLABUS.md).
 
 # Topics
 The sequence of topics will generally follow the MAIN book reference following each chapter. Discussions will be live synchronous activity every Thursdays to discuss the chapter and computational physics topics. I expect everyone to use the Tuesday schedule in finishing the allocated homework sessions posted in the Google Classroom. This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
