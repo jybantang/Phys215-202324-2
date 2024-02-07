@@ -11,25 +11,26 @@ introduction to linear and dynamic programming;
 principles of simulation and modeling;
 computer langueges for numerical solutions and algebraic manipulations.
 - Course credit: 3.0 u
-- Class schedule: TTh 5:30-7pm (PST)
+- Class schedule: WF 5:30-7pm (PST)
 
 ## Class mode
 This semester, we will have a mixture of the following modes:
-1. Default: Face-to-face physical class with option to HyperFlex (with simultaneous Zoom session).
+1. Default: Face-to-face physical class meeting (bring your own laptop)
 2. Asynchronous mode : Interaction with classmates and experts in the Discord server is encouraged. During this mode, you are expected to work on certain machine activity or problem assigned.
 
 ## Necessities:
 1. Computer (laptop or desktop) with Internet access<sup>[1](#gpu-note)</sup>
-2. Patience and enthusiasm
-3. Browser bookmarks of the following sites:
+2. Browser bookmarks of the following sites:
 	1. [The Julia documentation page](https://docs.julialang.org)
 	2. [A Julia packages shortcut repository](https://juliapackages.com)
 	3. [Wikibooks: Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
-4. Access to book references such as follows
+3. Access to book references such as follows
 	1. **[MAIN]** Avik Sengupta. Julia High Performance, 2nd Ed. (Packt Publishing, 2019). Available from [Packt](https://www.packtpub.com/product/julia-high-performance-second-edition/9781788298117) and [Amazon (as Kindle book)](https://www.amazon.com/Julia-High-Performance-Avik-Sengupta-ebook-dp-B0748MTFVL/dp/B0748MTFVL).
+    2. Kyle Novak. Numerical Methods for Scientific Computing, 2nd Ed. (Equalshare Press, 2022). [Download PDF file copy.](https://www.equalsharepress.com/media/NMFSC.pdf)
 	3. Ben Lauwens and Allen Downey. [Think Julia: How to think like a computer scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html). This is a good basic reference for Applied Physics 155 level of introduction for Julia.
 	4. Stephen Boyd and Lieven Vandenberghe. [Introduction to Applied Linear Algebra, VLMS](http://vmls-book.stanford.edu)
 	5. Other resources may appear in the Google Classroom, and in the Discord server.
+4. Patience and enthusiasm
 
 ## Course Goals
 At the end of the semester, the student will be able to:
