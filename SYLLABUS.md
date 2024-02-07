@@ -70,4 +70,4 @@ _Final project._ Only one(1) final project more complex than the mini-projects w
 Submission modes are described in the [Main Page](README.md).
 
 ## Notes
-<a name="gpu-note">[1]</a> The computer must have at least more than two cores. Having GPU cores is desirable but not required. The Internet access is necessary for downloading and installing related apps and codes Julia and GitHub.
+<a name="gpu-note">[1]</a> Must have at least two CPU cores. Having GPU cores is desirable but not required. The Internet access is necessary for downloading and installing related apps and codes Julia and GitHub.
