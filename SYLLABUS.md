@@ -51,7 +51,7 @@ The listing of the topics is found in the [Main Page](README.md).
 
 ## Course Requirements
 Students are expected to submit the following requirements with their corresponding percentage of the total course grade.
-1. **Exercises** (Ex≥5 coding exercises, individual): 60% 
+1. **Exercises** (Ex≥5 machine problems, individual): 60% 
 2. **Projects:**
 	1. **Mini-projects** (Pm≥1 project, individual up to trio): 20%. _Must demonstrate at least one(1) of the Course Goals._
 	2. **Final Project** (Pf=1 project, individual up to trio): 20%. _Must demonstrate at least two(2) of the Course Goals._
