@@ -13,6 +13,15 @@ computer langueges for numerical solutions and algebraic manipulations.
 - Course credit: 3.0 u
 - Class schedule: WF 5:30-7pm (PST)
 
+## Course Goals
+At the end of the semester, the student will be able to:
+- **[G1]** Identify basic principles in high-performance computation, in particular those accessible via Julia as a programming language;
+- **[G2]** Solve at least one ODE-based problem using numerical approach in Julia, showing the
+solutions in graphical plots;
+- **[G3]** Implement known numerical methods / algorithm for solving or simulating basic physical models using Julia as the programming language;
+- **[G4]** Identify critical principles of simulation and modeling in at least one project involving physical system modeling or simulation;
+- **[G5]** Submit at least one completed project implemented using Julia programming language clearly demonstrating at least two out of the first four (G1-G4) above.
+
 ## Class mode
 This semester, we will have a mixture of the following modes:
 1. Default: Face-to-face physical class meeting (bring your own laptop)
@@ -31,15 +40,6 @@ This semester, we will have a mixture of the following modes:
 	4. Stephen Boyd and Lieven Vandenberghe. [Introduction to Applied Linear Algebra, VLMS](http://vmls-book.stanford.edu)
 	5. Other resources may appear in the Google Classroom, and in the Discord server.
 4. Patience and enthusiasm
-
-## Course Goals
-At the end of the semester, the student will be able to:
-- **[G1]** Identify basic principles in high-performance computation especially those accessible via Julia as a programming language;
-- **[G2]** Solve at least one ODE-based problem using numerical approach in Julia, showing the
-solutions in graphical plots;
-- **[G3]** Implement known numerical methods / algorithm for solving or simulating basic physical models using Julia as the programming language;
-- **[G4]** Identify critical principles of simulation and modeling in at least one project involving physical system modeling or simulation;
-- **[G5]** Submit at least one completed project implemented using Julia programming language clearly demonstrating at least two out of the first four (G1-G4) above.
 
 ## Topics
 The sequence of topics will generally follow the MAIN book reference following each chapter.
