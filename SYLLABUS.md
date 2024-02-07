@@ -1,4 +1,4 @@
-# Syllabus and Course Guide Outline
+# Syllabus and Course Guide
 _by: Johnrob Y. Bantang, Ph.D._
 
 [Main](./)
