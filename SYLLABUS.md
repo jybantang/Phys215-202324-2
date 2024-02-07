@@ -24,8 +24,9 @@ solutions in graphical plots;
 
 ## Class mode
 This semester, we will have a mixture of the following modes:
-1. Default: Face-to-face physical class meeting (bring your own laptop)
-2. Asynchronous mode : Interaction with classmates and experts in the Discord server is encouraged. During this mode, you are expected to work on certain machine activity or problem assigned.
+1. Wednesdays: Face-to-face physical class meeting (bring your own laptop)
+2. Fridays: Asynchronous mode when you are expected to work with your classmates on the assigned machine problem / exercise.
+Interaction with classmates and experts in the Discord server is encouraged. During this mode, you are expected to work on certain machine activity or problem assigned.
 
 ## Necessities:
 1. Computer (laptop or desktop) with Internet access<sup>[1](#gpu-note)</sup>
