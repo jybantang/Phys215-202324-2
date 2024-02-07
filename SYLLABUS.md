@@ -44,9 +44,11 @@ Interaction with classmates and experts in the Discord server is encouraged. Dur
 
 ## Topics
 The sequence of topics will generally follow the MAIN book reference following each chapter.
-Discussions will be live synchronous activity every Thursdays to discuss the chapter and computational physics topics.
-I expect everyone to use the Tuesday schedule in finishing the allocated homework sessions posted in the Google Classroom.
+Discussions during classes and class hours will be done every Wednesdays to discuss the chapter and computational physics topics.
+I expect everyone to use the Friday schedule to finish the allocated homework sessions posted in the Google Classroom.
 This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
+
+This semester, I decided to try and use known machine problems for application of the HPC concepts discussed.
 
 The listing of the topics is found in the [Main Page](README.md).
 

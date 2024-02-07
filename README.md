@@ -8,16 +8,19 @@ This course is previously offered during the 1st semester of the academic year 2
 This version With some modifications is offered for the 2nd semester of the academic year 2023-2024.
 
 Most codes are based on those in the books used as textbook and references. 
+Exercises as machine problems will be taken from other sources and will provide updates along the way.
 Copyright mode is MIT since it covers the copyright mode of those references.
 
 Please drop me a [note](mailto:jybantang@up.edu.ph) for any possible copyright problem since I'm making this public for my class.
 
 # Syllabus and Course Guide Outline
-
 The syllabus is accessible [here](SYLLABUS.md).
 
 # Topics
-The sequence of topics will generally follow the MAIN book reference following each chapter. Discussions will be live synchronous activity every Thursdays to discuss the chapter and computational physics topics. I expect everyone to use the Tuesday schedule in finishing the allocated homework sessions posted in the Google Classroom. This list may change as determined by the instructor. Each number will generally be allocated for the week number of the semester.
+An in-class discussion will happen during one of the meeting days.
+You are expected to work on the problems assigned in the other meeting day.
+Please be free in collaborating with your classmates in all learning process.
+The Discord server for this activity has been created for this particular purpose.
 
 ## Session 0
 [**Installation and exploration of the Julia language**](00-Intro/README.md)
