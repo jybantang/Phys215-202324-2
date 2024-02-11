@@ -31,11 +31,12 @@ Notebooks can contain discussions like a diary.
 
 Since we will eventually use this as a way to submit your homeworks, here are the links from where you will be able to download the Jupyter installations.
 - Main [Jupyter page](https://jupyter.org).
-- Jupyter Notebook documentation is found [online](https://jupyter-notebook.readthedocs.io/en/stable/)
+- Jupyter Notebook documentation is found [online](https://jupyter-notebook.readthedocs.io/en/stable/).
 - Jupyter Notebook installation will require Python installation via [Anaconda](https://www.anaconda.com/products/distribution).
 - Installing IJulia and Julia kernel into Jupyter is found in the [IJulia documentation](https://julialang.github.io/IJulia.jl/stable/).
 
-## Additional notes
-Here, I initially utilized the `Pluto` package of Julia.
-You may check out `j1-basic-julia.jl` for the exploration.
-Some tricks may be found in the `j1-plot-mandel.jl`.
+## Pluto for those with limited coding experience
+Here, I initially utilized the [`Pluto` package of Julia](https://plutojl.org/en/docs/).
+Some authors recommend to use Pluto for initial explorations for those with no direct experience in coding.
+// You may check out `j1-basic-julia.jl` for the exploration.
+// Some tricks may be found in the `j1-plot-mandel.jl`.
