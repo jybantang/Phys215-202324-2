@@ -10,7 +10,7 @@
 - [ ] **KR6:** Try out other basic tricks in one of the tutorial pages.
 
 # Julia tutorials
-Based on experience, the best go-to sites are the main references indicated in [the Syllabus](SYLLABUS.md).
+Based on experience, the best go-to sites are the main references indicated in [the Syllabus](../SYLLABUS.md).
 
 # Installing Julia
 Julia app can be directly downloaded from the Julialang.org “Download Julia” page (https://julialang.org/downloads). This will provide CLI Julia. I recommend downloading the latest stable (22 August 2022), **v 1.8.0**.
@@ -19,10 +19,11 @@ Julia app can be directly downloaded from the Julialang.org “Download Julia”
 These links are found in the updated websites of Julialang.org and others. There should be no need to enroll in other resource. However, if you have the opportunity to access them, that’s no worry.
 
 Remember that in the end, we just wish to become Physicist who can use the computer to help us in our discovery.
-- Julia Basics: (https://docs.julialang.org/en/v1/manual/getting-started/)
-- Plots Basics: (https://docs.juliaplots.org/latest/basics/)
-- Plots Tutorial: (https://docs.juliaplots.org/latest/tutorial/)
-- Pkg Basics: (https://pkgdocs.julialang.org/v1/getting-started/#Basic-Usage)
+- [Julia Documentation](https://docs.julialang.org/en/v1/)
+- [Start using Julia](https://docs.julialang.org/en/v1/manual/getting-started/)
+- [Plots Basics](https://docs.juliaplots.org/latest/basics/)
+- [Plots Tutorial](https://docs.juliaplots.org/latest/tutorial/)
+- [Pkg Basics](https://pkgdocs.julialang.org/v1/getting-started/#Basic-Usage)
 
 # Installing Jupyter notebook
 **Jupyter Notebooks** are fun to use.
