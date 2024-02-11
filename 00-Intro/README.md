@@ -30,10 +30,10 @@ Remember that in the end, we just wish to become Physicist who can use the compu
 Notebooks can contain discussions like a diary.
 
 Since we will eventually use this as a way to submit your homeworks, here are the links from where you will be able to download the Jupyter installations.
-- Main page: (https://jupyter.org)
-- Jupyter Notebook documentation: (https://jupyter-notebook.readthedocs.io/en/stable/)
-- Jupyter Notebook installation will require Python installation via (Anaconda)[https://www.anaconda.com/products/distribution]
-- Installing IJulia and Julia kernel into Jupyter: (https://github.com/JuliaLang/IJulia.jl)
+- Main [Jupyter page](https://jupyter.org).
+- Jupyter Notebook documentation is found [online](https://jupyter-notebook.readthedocs.io/en/stable/)
+- Jupyter Notebook installation will require Python installation via [Anaconda](https://www.anaconda.com/products/distribution).
+- Installing IJulia and Julia kernel into Jupyter is found in the [IJulia documentation](https://julialang.github.io/IJulia.jl/stable/).
 
 ## Additional notes
 Here, I initially utilized the `Pluto` package of Julia.
