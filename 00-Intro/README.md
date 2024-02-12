@@ -13,7 +13,11 @@
 Based on experience, the best go-to sites are the main references indicated in [the Syllabus](../SYLLABUS.md).
 
 # Installing Julia
-Julia app can be directly downloaded from the Julialang.org “Download Julia” page (https://julialang.org/downloads). This will provide CLI Julia. I recommend downloading the latest stable (22 August 2022), **v 1.8.0**.
+Julia app can be directly downloaded from the Julialang.org [“Download Julia” page](https://julialang.org/downloads). This will provide CLI Julia.
+I recommend downloading the latest stable (25 December 2023), **v 1.10.0** via terminal command in that page.
+Installing the `juliaup` is the latest best way.
+I have tried [installing Julia via `brew`](https://formulae.brew.sh/formula/julia) (I work with MacOS), but recently the version is delayed (v.1.9.4) and reverted to the CLI and `juliaup`.
+You may still opt to use the `brew` and the delayed Julia version should not be a problem.
 
 # Julia Tutorials
 These links are found in the updated websites of Julialang.org and others. There should be no need to enroll in other resource. However, if you have the opportunity to access them, that’s no worry.
