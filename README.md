@@ -29,26 +29,35 @@ The Discord server for this activity has been created for this particular purpos
 
 ## Session 1
 _This section may be updated soon._
+
 [**HPC and the Julia Framework**](01-HPC/README.md)
 
 **OBJECTIVE**: Confirm Julia framework and Base speed
 
 ## Session 2
+_This section may be updated soon._
+
 [**Computing performance**](02-Performance/README.md)
 
 **OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
 
 ## Session 3
+_This section may be updated soon._
+
 [**Type and type-related performance**](03-Types/README.md)
 
 **OBJECTIVE**: Demonstrate the dynamic programming features of Julia (type dynamism)
 
 ## Session 4
+_This section may be updated soon._
+
 [**Fast function calls**](04-Fast-Calls/README.md)
 
 **OBJECTIVE**: Compare benchmark times of different implementation of functions that can be expressed as a recursion relation.
 
 ## Mini-project
+_This section may be updated soon._
+
 [**mProject : Mini-project ideas**](09-mProject/README.md)
 
 **OBJECTIVE:** Identify critical principles of simulation and modeling in at a project involving physical system modeling or simulation.
