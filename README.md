@@ -28,6 +28,7 @@ The Discord server for this activity has been created for this particular purpos
 **OBJECTIVE**: Successfully Explore Julia
 
 ## Session 1
+_This section may be updated soon._
 [**HPC and the Julia Framework**](01-HPC/README.md)
 
 **OBJECTIVE**: Confirm Julia framework and Base speed
