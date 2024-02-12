@@ -38,5 +38,5 @@ Since we will eventually use this as a way to submit your homeworks, here are th
 ## Pluto for those with limited coding experience
 Here, I initially utilized the [`Pluto` package of Julia](https://plutojl.org/en/docs/).
 Some authors recommend to use Pluto for initial explorations for those with no direct experience in coding.
-// You may check out `j1-basic-julia.jl` for the exploration.
-// Some tricks may be found in the `j1-plot-mandel.jl`.
+\\ You may check out `j1-basic-julia.jl` for the exploration.
+\\ Some tricks may be found in the `j1-plot-mandel.jl`.
