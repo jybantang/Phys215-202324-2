@@ -6,14 +6,10 @@
 Provide a Google Docs documentation for the following Key Results (KR).
 Use the provided template.
 You may need a screenshot / printscreen function for this.
-- [ ] **KR1:** The Julia REPL and its introduction runs using the terminal of your Operating System (OS)
-- [ ] **KR2:** Use `versioninfo()` command to show the relevant information of the installation.
-- [ ] **KR3:** Successful execution of [mathematical commands via the Julia terminal ("advanced" calculator function)](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL#Julia_and_mathematics) up to generating a histogram of a normally-distributed random numbers.
-- [ ] **KR4:** Show switching of REPL to [the four REPL modes](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL)
-- [ ] **KR5:** Display the type hierarchy in Julia (starting from `Number`) similar to one shown in [the Julia Documentation page](https://docs.julialang.org/en/v1/base/numbers/). Utize the [`showtypetree()` function in the wikibooks page](https://en.wikibooks.org/wiki/Introducing_Julia/Types).
-
-# Julia tutorials
-Based on experience, the best go-to sites are the main references indicated in [the Syllabus](../SYLLABUS.md) especially the official Julia documentation site.
+- [ ] **KR1:** Runs the `versioninfo()` command to show the relevant information of the installation.
+- [ ] **KR2:** Successful execution of [mathematical commands via the Julia terminal ("advanced" calculator function)](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL#Julia_and_mathematics) up to generating a histogram of a normally-distributed random numbers.
+- [ ] **KR3:** Show switching of REPL to [the four REPL modes](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL)
+- [ ] **KR4:** Display the type hierarchy in Julia (starting from `Number`) similar to one shown in [the Julia Documentation page](https://docs.julialang.org/en/v1/base/numbers/). Utize the [`showtypetree()` function in the wikibooks page](https://en.wikibooks.org/wiki/Introducing_Julia/Types).
 
 # Installing Julia
 Julia app can be directly downloaded from the Julialang.org [“Download Julia” page](https://julialang.org/downloads). 
@@ -23,10 +19,10 @@ Installing the `juliaup` is the latest best way.
 I have tried [installing Julia via `brew`](https://formulae.brew.sh/formula/julia) (I work with MacOS), but recently the version is delayed (v.1.9.4) and reverted to the CLI and `juliaup`.
 You may still opt to use the `brew` and the delayed Julia version should not be a problem.
 
-# Julia Tutorials
-These links are found in the updated websites of Julialang.org and others. There should be no need to enroll in other resource. However, if you have the opportunity to access them, that’s no worry.
+# Julia tutorials
+Based on experience, the best go-to sites are the main references indicated in [the Syllabus](../SYLLABUS.md) especially the official Julia documentation site.
 
-Remember that in the end, we just wish to become Physicist who can use the computer to help us in our scientific quest.
+We wish to become physicists who can use the computer to help us in our scientific quest.
 - [Julia Documentation](https://docs.julialang.org/en/v1/)
 - [Start using Julia](https://docs.julialang.org/en/v1/manual/getting-started/)
 - [Plots Basics](https://docs.juliaplots.org/latest/basics/)
@@ -43,12 +39,12 @@ Since we will eventually use this as a way to submit your homeworks, here are th
 - Jupyter Notebook installation will require Python installation via [Anaconda](https://www.anaconda.com/products/distribution).
 - Installing IJulia and Julia kernel into Jupyter is found in the [IJulia documentation](https://julialang.github.io/IJulia.jl/stable/).
 
-# Installing Julia into VSCode IDE
+# Installing Julia extension in VSCode
 VSCode is becoming popular in many programming languages.
 One feature is its ability to incorporate many formatting schemes.
-[Julia can be incorporated as an extension](https://code.visualstudio.com/docs/languages/julia) into any existing [VSCode installation](https://code.visualstudio.com/download).
-VSCode provides direct access to the appropriate terminal within your own OS.
-For coding teamwork, it also provides direct access to GitHub scripts.
+[There is a Julia an extension](https://code.visualstudio.com/docs/languages/julia) in your existing [VSCode installation](https://code.visualstudio.com/download).
+VSCode also provides direct access to the appropriate terminal within your own OS.
+GitHub scripts extension is also available, an advantage for coding teamwork.
 
 ## Pluto for those with limited coding experience
 One can also utilize the [`Pluto` package of Julia](https://plutojl.org/en/docs/) for exploratory exercises.
