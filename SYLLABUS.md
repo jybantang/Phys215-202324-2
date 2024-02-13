@@ -35,12 +35,13 @@ Interaction with classmates and experts in the Discord server is encouraged. Dur
 	2. [Wikibooks: Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia): A good tutorial site with sample codes to tryout.
 	3. [A Julia packages shortcut repository](https://juliapackages.com): For finding the right package you might need.
 3. Access to book references such as follows
-	1. **[MAIN]** Avik Sengupta. Julia High Performance, 2nd Ed. (Packt Publishing, 2019). Details are found in its [website](https://juliahighperformance.com). _Warning_: Paid book. You might not need to buy it for this semester.
-	2. _. Julia for Optimization and Learning (stable version). An online book course on optimization and basic neural network. [The first few chapters are very useful as introductory course.](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
-    2. Kyle Novak. Numerical Methods for Scientific Computing, 2nd Ed. (Equalshare Press, 2022). [Download PDF file copy.](https://www.equalsharepress.com/media/NMFSC.pdf)
-	3. Ben Lauwens and Allen Downey. [Think Julia: How to think like a computer scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html). This is a good basic reference for Applied Physics 155 level of introduction for Julia.
-	4. Stephen Boyd and Lieven Vandenberghe. [Introduction to Applied Linear Algebra, VLMS](http://vmls-book.stanford.edu)
-	5. Other resources may appear in the Google Classroom, and in the Discord server.
+	1. **[MAIN]** Avik Sengupta. **Julia High Performance**, 2nd Ed. (Packt Publishing, 2019). Details are found in its [website](https://juliahighperformance.com). _Warning_: Paid book. You might not need to buy it for this semester.
+	2. Storopoli, Huijzer and Alonso (2021). **Julia Data Science**. [An online course focused on Data Science.](https://juliadatascience.io. ISBN: 9798489859165)
+	3. _. J**ulia for Optimization and Learning** (stable version). An online book course on optimization and basic neural network. [The first few chapters are very useful as introductory course.](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
+	4. Kyle Novak. **Numerical Methods for Scientific Computing**, 2nd Ed. (Equalshare Press, 2022). [Download PDF file copy.](https://www.equalsharepress.com/media/NMFSC.pdf)
+	5. Ben Lauwens and Allen Downey. **[Think Julia: How to think like a computer scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html)**. This is a good basic reference for Applied Physics 155 level of introduction for Julia.
+	6. Stephen Boyd and Lieven Vandenberghe. **[Introduction to Applied Linear Algebra, VLMS](http://vmls-book.stanford.edu)** (accessible online January 2024)
+	7. Other resources may appear in the Google Classroom, and in the Discord server.
 4. Patience and enthusiasm
 
 ## Topics
