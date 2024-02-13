@@ -2,15 +2,15 @@
 [Main](../README.md) | [Next](../01-HPC/README.md)
 
 ## OBJECTIVE: Successfully Explore Julia
-- [ ] **KR1:** Julia can be run using the terminal, the Julia REPL appears
-- [ ] **KR2:** Execute via the Julia REPL basic arithmetic expressions such as 2+3, or 3^4
-- [ ] **KR3:** Tried several basic mathematical operations such as exponentiation, as well as known functions such as trigonometric and exponents.
-- [ ] **KR4:** Switched to the four REPL modes (check the docs for these)
-- [ ] **KR5:** Assign a generated 200x200 random matrix via the command rand()
-- [ ] **KR6:** Try out other basic tricks in one of the tutorial pages.
+- [ ] **KR1:** The Julia REPL and its introduction runs using the terminal of your Operating System (OS)
+- [ ] **KR2:** use `versioninfo()` command to show the relevant information.
+- [ ] **KR3:** Successful execution of [mathematical commands via the Julia terminal ("advanced" calculator function)](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL#Julia_and_mathematics) up to generating a histogram of a normally-distributed random numbers.
+- [ ] **KR4:** Show switching of REPL to [the four REPL modes](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL)
+- [ ] **KR6:** Assign a generated $200 \times 200$ random matrix $M$ via the command `rand()`.
+- [ ] **KR7:** Display the generated matrix $M$.
 
 # Julia tutorials
-Based on experience, the best go-to sites are the main references indicated in [the Syllabus](../SYLLABUS.md).
+Based on experience, the best go-to sites are the main references indicated in [the Syllabus](../SYLLABUS.md) especially the official Julia documentation site.
 
 # Installing Julia
 Julia app can be directly downloaded from the Julialang.org [“Download Julia” page](https://julialang.org/downloads). 
