@@ -43,9 +43,16 @@ Since we will eventually use this as a way to submit your homeworks, here are th
 - Jupyter Notebook installation will require Python installation via [Anaconda](https://www.anaconda.com/products/distribution).
 - Installing IJulia and Julia kernel into Jupyter is found in the [IJulia documentation](https://julialang.github.io/IJulia.jl/stable/).
 
+# Installing Julia into VSCode IDE
+VSCode is becoming popular in many programming languages.
+One feature is its ability to incorporate many formatting schemes.
+VSCode provides direct access to the appropriate terminal within your own OS.
+For coding teamwork, it also provides direct access to GitHub scripts.
+
 ## Pluto for those with limited coding experience
-Here, I initially utilized the [`Pluto` package of Julia](https://plutojl.org/en/docs/).
+One can also utilize the [`Pluto` package of Julia](https://plutojl.org/en/docs/) for exploratory exercises.
 Some authors recommend to use Pluto for initial explorations for those with no direct experience in coding.
+It's important to keep in mind that Pluto keeps all variables updated at all times all throughout the file rather unlike Jupyter and VSCode.
 <!--
 You may check out `j1-basic-julia.jl` for the exploration.
  Some tricks may be found in the `j1-plot-mandel.jl`.
