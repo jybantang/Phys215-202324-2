@@ -2,12 +2,15 @@
 [Main](../README.md) | [Next](../01-HPC/README.md)
 
 ## OBJECTIVE: Successfully Explore Julia
+
+Provide a Google Docs documentation for the following Key Results (KR).
+Use the provided template.
+You may need a screenshot / printscreen function for this.
 - [ ] **KR1:** The Julia REPL and its introduction runs using the terminal of your Operating System (OS)
-- [ ] **KR2:** use `versioninfo()` command to show the relevant information.
+- [ ] **KR2:** Use `versioninfo()` command to show the relevant information of the installation.
 - [ ] **KR3:** Successful execution of [mathematical commands via the Julia terminal ("advanced" calculator function)](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL#Julia_and_mathematics) up to generating a histogram of a normally-distributed random numbers.
 - [ ] **KR4:** Show switching of REPL to [the four REPL modes](https://en.wikibooks.org/wiki/Introducing_Julia/The_REPL)
-- [ ] **KR6:** Assign a generated $200 \times 200$ random matrix $M$ via the command `rand()`.
-- [ ] **KR7:** Display the generated matrix $M$.
+- [ ] **KR5:** Display the type hierarchy in Julia (starting from `Number`) similar to one shown in [the Julia Documentation page](https://docs.julialang.org/en/v1/base/numbers/). Utize the [`showtypetree()` function in the wikibooks page](https://en.wikibooks.org/wiki/Introducing_Julia/Types).
 
 # Julia tutorials
 Based on experience, the best go-to sites are the main references indicated in [the Syllabus](../SYLLABUS.md) especially the official Julia documentation site.
