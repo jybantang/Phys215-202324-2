@@ -31,11 +31,12 @@ Interaction with classmates and experts in the Discord server is encouraged. Dur
 ## Necessities:
 1. Computer (laptop or desktop) with Internet access<sup>[1](#gpu-note)</sup>
 2. Browser bookmarks of the following sites:
-	1. [The Julia documentation page](https://docs.julialang.org)
-	2. [A Julia packages shortcut repository](https://juliapackages.com)
-	3. [Wikibooks: Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia)
+	1. [The Julia documentation page](https://docs.julialang.org): The one authoritative documentation website.
+	2. [Wikibooks: Introducing Julia](https://en.wikibooks.org/wiki/Introducing_Julia): A good tutorial site with sample codes to tryout.
+	3. [A Julia packages shortcut repository](https://juliapackages.com): For finding the right package you might need.
 3. Access to book references such as follows
-	1. **[MAIN]** Avik Sengupta. Julia High Performance, 2nd Ed. (Packt Publishing, 2019). Available from [Packt](https://www.packtpub.com/product/julia-high-performance-second-edition/9781788298117) and [Amazon (as Kindle book)](https://www.amazon.com/Julia-High-Performance-Avik-Sengupta-ebook-dp-B0748MTFVL/dp/B0748MTFVL).
+	1. **[MAIN]** Avik Sengupta. Julia High Performance, 2nd Ed. (Packt Publishing, 2019). Details are found in its [website](https://juliahighperformance.com). _Warning_: Paid book. You might not need to buy it for this semester.
+	2. _. Julia for Optimization and Learning (stable version). An online book course on optimization and basic neural network. [The first few chapters are very useful as introductory course.](https://juliateachingctu.github.io/Julia-for-Optimization-and-Learning/stable/)
     2. Kyle Novak. Numerical Methods for Scientific Computing, 2nd Ed. (Equalshare Press, 2022). [Download PDF file copy.](https://www.equalsharepress.com/media/NMFSC.pdf)
 	3. Ben Lauwens and Allen Downey. [Think Julia: How to think like a computer scientist](https://benlauwens.github.io/ThinkJulia.jl/latest/book.html). This is a good basic reference for Applied Physics 155 level of introduction for Julia.
 	4. Stephen Boyd and Lieven Vandenberghe. [Introduction to Applied Linear Algebra, VLMS](http://vmls-book.stanford.edu)
