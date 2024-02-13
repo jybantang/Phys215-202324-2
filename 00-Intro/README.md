@@ -26,7 +26,7 @@ You may still opt to use the `brew` and the delayed Julia version should not be 
 # Julia Tutorials
 These links are found in the updated websites of Julialang.org and others. There should be no need to enroll in other resource. However, if you have the opportunity to access them, that’s no worry.
 
-Remember that in the end, we just wish to become Physicist who can use the computer to help us in our discovery.
+Remember that in the end, we just wish to become Physicist who can use the computer to help us in our scientific quest.
 - [Julia Documentation](https://docs.julialang.org/en/v1/)
 - [Start using Julia](https://docs.julialang.org/en/v1/manual/getting-started/)
 - [Plots Basics](https://docs.juliaplots.org/latest/basics/)
