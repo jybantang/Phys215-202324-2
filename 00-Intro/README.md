@@ -46,6 +46,7 @@ Since we will eventually use this as a way to submit your homeworks, here are th
 # Installing Julia into VSCode IDE
 VSCode is becoming popular in many programming languages.
 One feature is its ability to incorporate many formatting schemes.
+[Julia can be incorporated as an extension](https://code.visualstudio.com/docs/languages/julia) into any existing [VSCode installation](https://code.visualstudio.com/download).
 VSCode provides direct access to the appropriate terminal within your own OS.
 For coding teamwork, it also provides direct access to GitHub scripts.
 
