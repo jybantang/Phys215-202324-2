@@ -40,6 +40,8 @@ Since we will eventually use this as a way to submit your homeworks, here are th
 - Jupyter Notebook installation will require Python installation via [Anaconda](https://www.anaconda.com/products/distribution).
 - Installing IJulia and Julia kernel into Jupyter is found in the [IJulia documentation](https://julialang.github.io/IJulia.jl/stable/).
 
+Installation of Jupyter notebook allows beautiful notebooks, .ipynb, that can me exported (via "download") to PDF or HTML formats.
+
 # Installing Julia extension in VSCode
 VSCode is becoming popular in many programming languages.
 One feature is its ability to incorporate many formatting schemes.
@@ -47,10 +49,16 @@ One feature is its ability to incorporate many formatting schemes.
 VSCode also provides direct access to the appropriate terminal within your own OS.
 GitHub scripts extension is also available, an advantage for coding teamwork.
 
+VSCode can be used in to edit either: raw .jl file, or .ipynb file.
+
 ## Pluto for those with limited coding experience
 One can also utilize the [`Pluto` package of Julia](https://plutojl.org/en/docs/) for exploratory exercises.
 Some authors recommend to use Pluto for initial explorations for those with no direct experience in coding.
 It's important to keep in mind that Pluto keeps all variables updated at all times all throughout the file rather unlike Jupyter and VSCode.
+
+Based on the latest Pluto version, it turns out that Pluto provides better environment for instructions and learning.
+The same Pluto file (ext: *.jl) can be exported to better PDF and HTML versions.
+It has no Reveal.jl for slide-mode HTML capability as Jupyter notebook though.
 <!--
 You may check out `j1-basic-julia.jl` for the exploration.
  Some tricks may be found in the `j1-plot-mandel.jl`.
