@@ -59,6 +59,9 @@ It's important to keep in mind that Pluto keeps all variables updated at all tim
 Based on the latest Pluto version, it turns out that Pluto provides better environment for instructions and learning.
 The same Pluto file (ext: *.jl) can be exported to better PDF and HTML versions.
 It has no Reveal.jl for slide-mode HTML capability as Jupyter notebook though.
+
+A place to start in Pluto is [this tutorial page](https://github.com/fonsp/Pluto.jl/wiki/🔎-Basic-Commands-in-Pluto).
+The documentation page of Pluto cited above is also OK.
 <!--
 You may check out `j1-basic-julia.jl` for the exploration.
  Some tricks may be found in the `j1-plot-mandel.jl`.
