@@ -1,4 +1,4 @@
-# Session 1: HPC and the Julia Framework
+# Session 1: The Julia Framework for HPC
 [Previous](../00-Intro/README.md) | [Main](../README.md) | [Next](../02-Performance/README.md)
 
 # **OBJECTIVE**: Confirm Julia framework and Base speed
