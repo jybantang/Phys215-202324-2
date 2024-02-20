@@ -28,11 +28,10 @@ The Discord server for this activity has been created for this particular purpos
 **OBJECTIVE**: Successfully Explore Julia
 
 ## Session 1
-_This section may be updated soon._
 
 [**HPC and the Julia Framework**](01-HPC/README.md)
 
-**OBJECTIVE**: Confirm Julia framework and Base speed
+**OBJECTIVE**: Explore Julia framework for HPC
 
 ## Session 2
 _This section may be updated soon._
@@ -64,15 +63,15 @@ _This section may be updated soon._
 
 # Submission modes
 
-All submissions must be done via the Google Classroom link.
+All submissions must be done via the Google Classroom link. Your own Google document may be provided as a template which you are to modify and submit.
 
-There are two options for submitting in our Google Classroom. The submission date will be reflected appropriately by the Google Classroom.
+UNLESS specified OTHERWISE, Jupyter notebook files shall be submitted in the following options. There are two options for submitting in our Google Classroom. The submission date will be reflected appropriately by the Google Classroom.
 
 For both options, click the appropriate button ("TURN IN")
-1. **Option 1 Jupyter nb file:** Upload `Session[n]-[SURNAME-GivenName]-[Exercise/File-short-title].ipynb` and the other required files such as `Session[n]-Function-name1.jl` and `Session[n]-Function-name2.jl` (or similar files).
-2. **Option 2 GitHub link:** Create a new Google Doc with the same filename `Session[n]-[SURNAME-GivenName]-[Exercise/File-short-title]` and type there the GitHub link of the code.
+1. **Option 1 Jupyter nb file:** Upload `MEx-[n]-[SURNAME-GivenName]-[Exercise/File-short-title].ipynb` and the other required files such as `MEx-[n]-Function-name1.jl` and `MEx-[n]-Function-name2.jl` (or similar files).
+2. **Option 2 GitHub link:** Create a new Google Doc with the same filename `MEx-[n]-[SURNAME-GivenName]-[Exercise/File-short-title]` and type there the GitHub link of the code.
 
-Sample name: `Session0-BANTANG-JohnRob-Julia-exploration.ipynb`
+Sample name: `MEx-0-BANTANG-JohnRob-Julia-exploration.ipynb`
 
 **For both cases**, also submit a PDF version of the Jupyter notebook of the same filename base ---after having run all necessary commands--- together with the other functions files as required. **If PDF export does not work** you may opt to submit an HTML-formatted output instead.
 
