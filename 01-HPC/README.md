@@ -11,9 +11,7 @@
 - [ ] KR7. Used `BenchmarkTools` to plot timing distribution and obtain the best time via the macro `@btime` evaluated at some random number. (See Chapter 2)
 - [ ] KR8 (Bonus): Plotted of the time $T$ it takes for the function to run using `@time` macro for different polynomial lengths $N$.
 
-
 # Naive polynomial evaluation
- 
 Any polynomial can be implemented via the formula directly $$p(x)=\sum_{n=0}^N a_n x^n$$where the coefficients $a_n$ is stored as the array `A` such that `length(A)` results to $N+1$. Random coefficients may be used for demonstration purposes. For instance, `A = rand(N+1)` via the internal default `rand()` function to produce $N+1$ random-valued coefficients.
 
 A loop over `x^n` for different $n$-values from $n=0$ to $N-1$ can be multiplied over the coefficients $a_n$ saved in `A`.
