@@ -23,13 +23,13 @@ Please be free in collaborating with your classmates in all learning process.
 The Discord server for this activity has been created for this particular purpose.
 
 ## Session 0
-[**Installation and exploration of the Julia language**](00-Intro/README.md)
+[**MEx 0: Installation and exploration of the Julia language**](00-Intro/README.md)
 
 **OBJECTIVE**: Successfully Explore Julia
 
 ## Session 1
 
-[**HPC and the Julia Framework**](01-HPC/README.md)
+[**MEx 1: HPC and the Julia Framework**](01-HPC/README.md)
 
 **OBJECTIVE**: Explore Julia framework for HPC
 
