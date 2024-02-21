@@ -16,6 +16,8 @@ Any polynomial can be implemented via the formula directly $$p(x)=\sum_{n=0}^N a
 
 A loop over `x^n` for different $n$-values from $n=0$ to $N-1$ can be multiplied over the coefficients $a_n$ saved in `A`.
 
+Naive implementations can be improved via vectorization natively implemented in Julia's `Array` types (aliased as `Vector` (1D) and `Matrix` (2D)). The use of parallelization can be done via multiple CPU (`Threads.jl`), multiple host (`Distributed.jl`), and GPU utilizations.
+
 # Horner method in `Polynomials.jl`
 [The `Polynomials.jl` module](https://juliamath.github.io/Polynomials.jl/stable/) uses Horner's method, among others, to evaluate and manipulate polynomials. It's expected that the implementation is optimized. Challenge yourself in finding a better method and prove it via an appropriate benchmarking plot of runtime $T$ against the polynomial power $N$.
 
