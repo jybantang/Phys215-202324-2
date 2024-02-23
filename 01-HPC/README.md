@@ -39,3 +39,6 @@ Make sure to add the package first via the Package mode first.
 Use [this basics manual](https://juliaci.github.io/BenchmarkTools.jl/stable/manual/#Benchmarking-basics) for initial exploration. Often the best time obtained via `@btime` can provide a good measure of the leverage of a given coded method.
 
 The polynomials can be evaluated at any random number via `rand()` function. The coefficients can also be generated as an array of random number `rand(N+1)`, a function which returns a `Vector{Float64}` of length $N$.
+
+
+[The html slide deck used during the lecture is here.](Mex-1-Julia-for-HPC.slides.html)
