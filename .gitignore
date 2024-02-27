@@ -22,3 +22,4 @@
 *.swp
 *-checkpoint.ipynb
 /02-Performance/.jupyter
+/02-Performance/.ipynb_checkpoints
