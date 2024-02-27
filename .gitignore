@@ -21,3 +21,4 @@
 04-Fast-Calls/.ipynb_checkpoints/Session-4-Fast-function-calls-checkpoint.ipynb
 *.swp
 *-checkpoint.ipynb
+/02-Performance/.jupyter
