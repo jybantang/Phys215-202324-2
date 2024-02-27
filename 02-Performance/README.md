@@ -1,4 +1,4 @@
-# MEx2: Memory management of machine representation
+# MEx 2: Memory management of machine representation
 [Previous](01-HPC/README.md) | [Main](../README.md) | Next
 
 # **OBJECTIVE**: Demonstrate speedup via memory management via analysis of logistic map
