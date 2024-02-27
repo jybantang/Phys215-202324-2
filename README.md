@@ -34,11 +34,10 @@ The Discord server for this activity has been created for this particular purpos
 **OBJECTIVE**: Explore Julia framework for HPC
 
 ## Session 2
-_This section may be updated soon._
 
-[**Computing performance**](02-Performance/README.md)
+[**MEx 2: Memory management of machine representation**](02-Performance/README.md)
 
-**OBJECTIVE**: Submit a performance analysis of a self-implemented physics textbook function using Julia benchmarking tools.
+**OBJECTIVE**: Demonstrate speedup via memory management via analysis of logistic map
 
 ## Session 3
 _This section may be updated soon._
