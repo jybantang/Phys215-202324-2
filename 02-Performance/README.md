@@ -52,3 +52,7 @@ For instance, the dynamic range of signed integer and unsigned integer is the sa
 The difference between `Float64` and `Float128` may be enough to cover what is required in either counting or tracking of any dynamical state.
 
 The translation to meaning from representation (data) is where we are best needed. Normalization allows a good numerical tractability since the value $1$ is farthest from both the under-  (the smallest non-zero) and overflow (largest before `Inf`) values. In the end, knowledge (not necessarily understanding) of the finite representation of digital data can help us in determining as to which point our numerical approach still makes sense in relation to the solution we offer.
+
+## Slide deck
+
+Here's [the slide deck](./Session-2-Fast-Data.slides.html) we used during class.
