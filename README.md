@@ -54,7 +54,7 @@ _This section may be updated soon._
 
 **OBJECTIVE**: Compare benchmark times of different implementation of functions that can be expressed as a recursion relation.
 
-] #
+]: #
 
 ## Mini-project
 
