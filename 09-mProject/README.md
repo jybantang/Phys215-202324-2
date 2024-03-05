@@ -1,9 +1,10 @@
 # mProject : Mini-project ideas
 [Back to main](../README.md)
 
-**OBJECTIVE:** Apply critical principles of simulation and modeling in at least one project involving physical system modeling or simulation or data processing.
+**Mini Project OBJECTIVE:** Apply critical principles of simulation and modeling in at least one project involving physical system modeling or simulation or data processing.
 
-You may suggest other topics / systems not included in this listing.
+You may suggest other problems or exercises not included in the suggested book.
+Make sure this is clear in the beginning of the proposal document.
 
 # Key results
  - [ ] **KR1:** Chosen simulation project found in the book: [Harvey Gould, Jan Tobochnik, and Wolfgang Christian, An Introduction to Computer Simulation Methods Third Edition (2016)](https://www.compadre.org/osp/items/detail.cfm?ID=7375).
