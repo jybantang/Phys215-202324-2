@@ -39,22 +39,6 @@ The Discord server for this activity has been created for this particular purpos
 
 **OBJECTIVE**: Demonstrate speedup via memory management via analysis of logistic map
 
-[
-## Session 3
-_This section may be updated soon._
-
-[**Type and type-related performance**](03-Types/README.md)
-
-**OBJECTIVE**: Demonstrate the dynamic programming features of Julia (type dynamism)
-
-## Session 4
-_This section may be updated soon._
-
-[**Fast function calls**](04-Fast-Calls/README.md)
-
-**OBJECTIVE**: Compare benchmark times of different implementation of functions that can be expressed as a recursion relation.
-
-]: #
 
 ## Mini-project
 
