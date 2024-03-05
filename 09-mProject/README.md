@@ -1,21 +1,20 @@
 # mProject : Mini-project ideas
 [Back to main](../README.md)
 
-**OBJECTIVE:** Identify critical principles of simulation and modeling in at least one project involving physical system modeling or simulation
-
-The simulation can be taken from different dynamical systems well-known in Physics such as
- - [Chaos](./Chaos/README.md)
- - [Cellular automata](./Cellular-Automata/README.md)
- - [Game theory](./Game-Theory/README.md)
- - [Dynamics](./Dynamics/README.md)
- - [CS Segregation model](./mProject-1/README.md) - with template for filling codes and discussions
+**OBJECTIVE:** Apply critical principles of simulation and modeling in at least one project involving physical system modeling or simulation or data processing.
 
 You may suggest other topics / systems not included in this listing.
 
 # Key results
- - [ ] **KR1:** Approved proposed project topic based on well-recognized dynamical system (not active research)
- - [ ] **KR2:** Replicated result(s) such as plot of the original work.
+ - [ ] **KR1:** Chosen simulation project found in the book: [Harvey Gould, Jan Tobochnik, and Wolfgang Christian, An Introduction to Computer Simulation Methods Third Edition (2016)](https://www.compadre.org/osp/items/detail.cfm?ID=7375).
+ - [ ] **KR2:** Submitted a proposed project.
  - [ ] **KR3:** Demonstrated at least one(1) of the Course Goals found in the [Syllabus](../SYLLABUS.md).
   The specific goal must be identified (G1 to G3).
 
-*Special condition*: Submitted as individual or up to trio
+*Special condition*: Submitted as individual or up to a group of four(4).
+
+1. Each proposal must follow the template provided.
+1. Each member must submit the same copy of the group proposal.
+1. The project proposed must be copied and the proposed modifications be indicated.
+1. Complete identification of the project ("Project No. X.xx") referenced in the book.
+1. The mini-project must be doable in two weeks.
